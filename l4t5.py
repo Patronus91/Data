@@ -13,3 +13,4 @@ for letter in text:
 		new_letter = letter
 	coded_text = coded_text + new_letter
 print coded_text
+you
